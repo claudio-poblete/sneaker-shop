@@ -65,6 +65,7 @@ aside{
 
 main{
   grid-area: main;
+  padding-left: 3rem;
 }
 
 .product-container{
