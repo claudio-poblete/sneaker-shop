@@ -150,9 +150,10 @@ footer p:hover{
 
 .grid-container{
   display: grid;
+  grid-template-columns: 1fr 6fr;
   grid-template-areas:
-  "header header header header header header header header header header header header"
-  "menu main main main main main main main main main main main"
-  "footer footer footer footer footer footer footer footer footer footer footer footer";
+  "header header"
+  "menu main"
+  "footer footer";
 
 }
