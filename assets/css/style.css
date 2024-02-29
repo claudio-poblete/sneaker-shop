@@ -155,5 +155,8 @@ footer p:hover{
   "header header"
   "menu main"
   "footer footer";
+}
 
+span{
+  opacity: 0.6;
 }
